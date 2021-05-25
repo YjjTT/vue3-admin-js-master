@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
+    <p v-pin="100">辽宁达因</p>
   </div>
 </template>
 
